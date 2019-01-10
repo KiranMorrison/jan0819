@@ -5,6 +5,7 @@
 import numpy as np
 import pandas as pd
 import json
+import sys
 
 
 def main():
@@ -21,4 +22,8 @@ def main():
 	print(myname)
 	
 # execute my main function
-main()
+
+if __name__ == '__main__':
+	main()
+else:
+	sys.exit()

@@ -1,0 +1,28 @@
+{
+'POSTTITLE': 'SPURS BEAT CHELSEA',
+'POSTCONTENT': 'GLORIOUS KANE SMASHED VAR',
+'DATE': '2019-01-08',
+'AUTHOR': 'LAWRENCE FREEMAN',
+'IMAGES': [
+	{
+		'TITLE': 'KANE GETS TRIPPED',
+		'IMAGEFILENAME': './TRIP.JPG',
+		'DATE': '2019-01-09'
+	},
+	{
+		'TITLE': 'POTECHINO STAYS',
+		'IMAGEFILENAME': './COMMITMENTFROMBOSS.JPG',
+		'DATE': '2019-01-09'
+	}]
+'COMMENTS': [
+    {
+		'COMMENT': 'YEAH I AGREE',
+		'DATE': '2018-01-09'
+		'AUTHOR': 'STINKY PETE'
+	},
+	{
+		'COMMENT': 'I was on the Guardian Soulmates section for six years, I met a lady in the first few months but it was never going to be anything more than a friendship. After that I had no meetings at all, a few speculative emails but that was it, really quite soul destroying in feeling serially overlooked. Four years on Tinder with no contacts at all with the associated slap in the face that my brother went on once his divorce was finalised and was talking to five ladies within the first four hours. I tried two of the commercial online options and had one meeting from each both of whom were no reflection in reality of the online persona they had projected and I came away feeling very misled. A third online site didn\'t even allow me on! After a huge registration questionnaire which took at least an hour to complete there appeared a dialogue box saying, "unfortunately, none of our users matches your criteria" (I didn\'t even mention the fish worrying!) and a long email explaining it wasn\'t me but them. All this desultory experience has often made me wonder if I\'m actually too open and honest for the online world. I\'ve been single now for about ten years and whilst I\'m self-sufficient from day to day I am unutterably lonely in having nobody to share experiences and the mundanities of life with.',
+		'DATE': '2018-01-09'
+		'AUTHOR': 'LEEDSLAD1967'
+	}]
+}
